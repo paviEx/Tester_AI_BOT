@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: Tester_AI_BOT
+Version: 0.1
+Author: Pavithran
+Author-email: surendar.pavithran@gmail.com
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file

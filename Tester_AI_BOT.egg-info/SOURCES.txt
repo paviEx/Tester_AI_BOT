@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+Tester_AI_BOT.egg-info/PKG-INFO
+Tester_AI_BOT.egg-info/SOURCES.txt
+Tester_AI_BOT.egg-info/dependency_links.txt
+Tester_AI_BOT.egg-info/top_level.txt
+src/__init__.py
+src/helper.py
+src/prompt.py
